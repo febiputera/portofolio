@@ -83,7 +83,7 @@ p{
 .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 500px;
+  bottom: 300px;
 }
 
 .middle-container {
@@ -150,7 +150,7 @@ p{
    -moz-border-radius: 8px;
    border-radius: 8px;
    color: #FFFFFF;
-   font-family: Arial;
+   font-family: Arial,sans-serif;
    font-size: 20px;
    font-weight: 100;
    padding: 14px;
